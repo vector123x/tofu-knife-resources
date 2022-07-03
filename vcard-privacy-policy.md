@@ -1,3 +1,11 @@
+## Contacts Tools - Privacy Policy
+
+Contacts Tools takes its users' privacy very seriously, it will never collect any of your private information. 
+
+Also, it will not read or modify any content on your clipboard without first notifying you.
+
+----
+
 ## 通讯录助手 - 隐私政策 
 
 通讯录助手非常重视用户的隐私保护，它绝不会收集您的任何隐私内容。
