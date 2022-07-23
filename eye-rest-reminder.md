@@ -1,6 +1,6 @@
-## Eye Rest Reminder(Pomodoro) - Privacy Policy
+## iTimer - Privacy Policy
 
-Eye Rest Reminder(Pomodoro) takes its users' privacy very seriously, it will never collect any of your private information. 
+iTimer takes its users' privacy very seriously, it will never collect any of your private information. 
 
 Also, it will not read or modify any content on your clipboard without first notifying you.
 
@@ -11,11 +11,11 @@ The privacy policy for the AppCenter SDK is located at https://docs.microsoft.co
 
 ----
 
-## 护眼番茄钟 - 隐私政策 
+## iTimer - 隐私政策 
 
-「护眼番茄钟」非常重视用户的隐私保护，它绝不会收集您的任何隐私内容。
+「iTimer」非常重视用户的隐私保护，它绝不会收集您的任何隐私内容。
 
-另外，在未经允许或告知的情况下，护眼番茄钟也绝不会修改或读取您的剪贴板内容。
+另外，在未经允许或告知的情况下，iTimer也绝不会修改或读取您的剪贴板内容。
 
 应用程序内部集成了 AppCenter SDK，当应用程序崩溃时，它会上报崩溃日志，这有助于我们修复错误和改善用户体验。
 
@@ -24,11 +24,11 @@ AppCenter SDK 的隐私政策地址是 https://docs.microsoft.com/zh-cn/appcente
 
 ----
 
-## 护眼番茄钟 - 隱私政策 
+## iTimer - 隱私政策 
 
-「护眼番茄钟」非常重視用戶的隱私保護，它絕不會收集您的任何隱私內容。
+「iTimer」非常重視用戶的隱私保護，它絕不會收集您的任何隱私內容。
 
-另外，在未經允許或告知的情況下，护眼番茄钟也絕不會修改或讀取您的剪貼板內容。
+另外，在未經允許或告知的情況下，iTimer也絕不會修改或讀取您的剪貼板內容。
 
 應用程序內部集成了 AppCenter SDK，當應用程序崩潰時，它會上報崩潰日誌，這有助於我們修復錯誤和改善用戶體驗。
 
