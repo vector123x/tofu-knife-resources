@@ -4,6 +4,12 @@ Contacts Tools takes its users' privacy very seriously, it will never collect an
 
 Also, it will not read or modify any content on your clipboard without first notifying you.
 
+All features can be used offline.
+
+The AppCenter SDK is integrated inside the application and reports crash logs when the application crashes, which helps us fix bugs and improve the user experience.
+
+The privacy policy for the AppCenter SDK is located at https://docs.microsoft.com/en-us/appcenter/gdpr/
+
 ----
 
 ## 通讯录助手 - 隐私政策 
@@ -17,3 +23,5 @@ Also, it will not read or modify any content on your clipboard without first not
 读取通讯录权限，仅用于导出联系人信息，将数据保存为 Excel 文件，存储到磁盘中。
 
 以上，所有的功能都无需联网，可离线使用。
+
+AppCenter SDK 的隐私政策地址是 https://docs.microsoft.com/zh-cn/appcenter/gdpr/
