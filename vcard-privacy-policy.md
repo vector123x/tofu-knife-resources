@@ -2,6 +2,8 @@
 
 Contacts Tools takes its users' privacy very seriously, it will never collect any of your private information. 
 
+Contacts Tools requests permission to read contacts just to allow users to export contact data to an Excel file, which we will never upload.
+
 Also, it will not read or modify any content on your clipboard without first notifying you.
 
 All features can be used offline.
@@ -20,8 +22,9 @@ The privacy policy for the AppCenter SDK is located at https://docs.microsoft.co
 
 通讯录助手申请了存储权限，仅用于用户选取 Excel 文件转换为联系人，除此之外，它不会在未经允许或告知的情况下读取或修改您外置存储中的任何文件。
 
-读取通讯录权限，仅用于导出联系人信息，将数据保存为 Excel 文件，存储到磁盘中。
+通讯录助手申请了读取联系人权限，只是为了让用户将联系人数据导出到 Excel 文件中，我们绝不会上传这些数据。
 
 以上，所有的功能都无需联网，可离线使用。
 
 AppCenter SDK 的隐私政策地址是 https://docs.microsoft.com/zh-cn/appcenter/gdpr/
+
