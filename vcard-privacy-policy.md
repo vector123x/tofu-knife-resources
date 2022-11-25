@@ -2,7 +2,7 @@
 
 Contacts Tools takes its users' privacy very seriously, it will never collect any of your private information. 
 
-Contacts Tools requests permission to read contacts just to allow users to export contact data to an Excel file, which we will never upload.
+The read contacts permission that Contacts Tools asked for is solely used for export the contact list to an Excel file.
 
 Also, it will not read or modify any content on your clipboard without first notifying you.
 
@@ -14,15 +14,15 @@ The privacy policy for the AppCenter SDK is located at https://docs.microsoft.co
 
 ----
 
-## 通讯录助手 - 隐私政策 
+## 通讯录助手 - 隐私政策
 
 通讯录助手非常重视用户的隐私保护，它绝不会收集您的任何隐私内容。
 
 另外，在未经允许或告知的情况下，通讯录助手也绝不会修改或读取您的剪贴板内容。
 
-通讯录助手申请了存储权限，仅用于用户选取 Excel 文件转换为联系人，除此之外，它不会在未经允许或告知的情况下读取或修改您外置存储中的任何文件。
+通讯录助手要求的读取联系人权限仅用于将联系人列表导出到 Excel 文件。
 
-通讯录助手申请了读取联系人权限，只是为了让用户将联系人数据导出到 Excel 文件中，我们绝不会上传这些数据。
+通讯录助手声明了读取联系人权限，权限用户将联系人数据导出到 Excel 文件中，除此之外，它不会在未经允许或告知的情况下读取或上传联系人列表数据。
 
 以上，所有的功能都无需联网，可离线使用。
 
