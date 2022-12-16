@@ -1,10 +1,10 @@
-## Instant Filter Photo - Privacy Policy
+## Messy Photo - Privacy Policy
 
-Instant Filter Photo takes its users' privacy very seriously, it will never collect any of your private information. 
+Messy Photo takes its users' privacy very seriously, it will never collect any of your private information. 
 
 Also, it will not read or modify any content on your clipboard without first notifying you.
 
-The storage permission that Instant Filter Photo is only used for users to select or save pictures. Other than that, it will not read or modify any of your files in the storage without first notifying you.
+The storage permission that Messy Photo is only used for users to select or save pictures. Other than that, it will not read or modify any of your files in the storage without first notifying you.
 
 The AppCenter SDK is integrated inside the application and reports crash logs when the application crashes, which helps us fix bugs and improve the user experience.
 
