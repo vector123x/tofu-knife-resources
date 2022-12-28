@@ -1,4 +1,4 @@
-Contacts Tools - Privacy Policy
+Contacts Tools Privacy Policy
 
 Contacts Tools takes its users' privacy very seriously, it will never collect any of your private information. 
 
