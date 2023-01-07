@@ -1,6 +1,6 @@
-## Pomodoro Timer - Privacy Policy
+## Instant Pomodoro Timer - Privacy Policy
 
-Pomodoro Timer takes its users' privacy very seriously, it will never collect any of your private information. 
+Instant Pomodoro Timer takes its users' privacy very seriously, it will never collect any of your private information. 
 
 Also, it will not read or modify any content on your clipboard without first notifying you.
 
