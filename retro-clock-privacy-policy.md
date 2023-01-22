@@ -1,6 +1,6 @@
-## Digital Clock - Privacy Policy
+## Retro Clock - Privacy Policy
 
-Digital Clock Timer takes its users' privacy very seriously, it will never collect any of your private information. 
+Retro Clock Timer takes its users' privacy very seriously, it will never collect any of your private information. 
 
 Also, it will not read or modify any content on your clipboard without first notifying you.
 
