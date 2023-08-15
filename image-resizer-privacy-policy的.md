@@ -1,6 +1,6 @@
-## Pic Resizer - Privacy Policy
+## Pic Tweak - Privacy Policy
 
-Pic Resizer takes its users' privacy very seriously, it will never collect any of your private information. 
+Pic Tweak takes its users' privacy very seriously, it will never collect any of your private information. 
 
 Also, it will not read or modify any content on your clipboard without first notifying you.
 
