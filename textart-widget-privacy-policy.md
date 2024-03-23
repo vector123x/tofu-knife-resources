@@ -1,6 +1,6 @@
-## Square Photo Widget - Privacy Policy
+## TextArt Widget - Privacy Policy
 
-Square Photo Widget takes its users' privacy very seriously, it will never collect any of your private information. 
+TextArt Widget takes its users' privacy very seriously, it will never collect any of your private information. 
 
 Also, it will not read or modify any content on your clipboard without first notifying you.
 
