@@ -1,0 +1,3 @@
+## Fake Contacts - Privacy Policy
+
+Fake Contacts is committed to protecting your privacy and operates entirely locally on your device without collecting, storing, or transmitting any personal information, such as names, emails, phone numbers, or device data. We do not track usage or access third-party services, and all fake contact generation occurs offline with no data uploads. The app may interact with your clipboard only for copying purposes, always notifying you and obtaining consent beforehand. No personal data is shared, and you control all locally stored information, which can be deleted at any time. 
