@@ -1,0 +1,107 @@
+Privacy Policy
+
+Effective Date: September 2, 2026
+Last Updated: September 2, 2026
+
+Operator: Shenzhen Vector 123 Technology Company Limited
+Contact Email: TofuKnifeDev@outlook.com
+
+Shenzhen Vector 123 Technology Company Limited (“we,” “us,” or “our”) respects your privacy and the security of your personal information. This Privacy Policy applies to the mobile applications we operate and the backend support services necessary for their operation (collectively, the “Services”). It explains how we handle and protect personal information and how you may exercise your rights.
+
+Different applications we operate may provide different features. We process personal information only according to the features you actually use and to the extent lawful, appropriate, and necessary.
+
+1. Information We Collect
+
+1.1 Information You Provide
+
+When you use registration, sign-in, content upload, feedback, customer support, purchase, or another feature that requires information, we process the information you choose to provide, such as account details, contact information, submitted content, order information, or communications.
+
+1.2 Application Operation Information
+
+To operate the application, diagnose problems, and maintain security, we process necessary device model, operating system and version, application version, network type, IP address, timestamps, crash logs, performance logs, and device or installation identifiers.
+
+1.3 Device Permission Information
+
+When you choose to use a relevant feature, the application may request camera, photos, microphone, location, notifications, files, or another system permission. We explain the purpose when requesting permission and access the relevant information after you authorize it. You may disable permissions through device settings; doing so affects only features that depend on the permission.
+
+1.4 Information Processed by Third-Party Services
+
+Some applications may integrate third-party SDKs or services for sign-in, payment, push notifications, analytics, crash reporting, maps, advertising, cloud services, artificial intelligence, or other functions. Depending on their function, third parties may process necessary device information, network information, logs, account identifiers, or content you choose to submit. The third-party services actually used and their privacy practices are identified in the list displayed in the relevant application or on the public privacy policy page.
+
+2. How We Use Information
+
+We use personal information to:
+
+2.1 Provide, maintain, and improve application features;
+2.2 Create and manage accounts, save settings, and process orders;
+2.3 Respond to inquiries, feedback, complaints, and rights requests;
+2.4 Diagnose problems, optimize performance, and protect account, network, and service security;
+2.5 Comply with legal obligations and lawful requests from competent authorities;
+2.6 With your consent, provide personalized recommendations, advertising, or marketing; and
+2.7 Fulfill another purpose explained when the information is collected.
+
+Our legal bases for processing may include your consent, performance of a contract with you, compliance with legal obligations, protection of life and property, and other bases permitted by applicable law. If the purpose or method of processing changes materially, we will provide further notice and obtain consent where required.
+
+3. Sensitive Personal Information and Device Permissions
+
+Precise location, biometric data, health information, financial accounts, identity documents, and information about minors may be sensitive personal information. We process such information only when necessary for a specific feature, explain the purpose and possible effects, apply enhanced safeguards, and obtain separate consent where required by law.
+
+We will not deny basic features that do not depend on particular information or permission merely because you refuse nonessential processing or a device permission. Before sensitive permissions, background access, or processing you would not reasonably expect occurs, we will provide a separate prominent notice.
+
+4. Information Sharing and Third-Party Services
+
+We do not sell personal information or provide it to third parties without a valid reason. We may share necessary information only when:
+
+4.1 We have obtained your valid consent;
+4.2 It is necessary to provide a feature you request, complete a transaction, or perform a contract;
+4.3 A cloud, payment, customer support, technical support, or other provider processes information on our behalf;
+4.4 It is required by law, legal process, or a lawful request from a competent authority;
+4.5 It is reasonably necessary to protect your, our, or the public's life, property, or safety; or
+4.6 Information is transferred in a merger, acquisition, asset transfer, or similar transaction, subject to legally required notice and safeguards.
+
+We require service providers processing information on our behalf to act only for agreed purposes and within the necessary scope and to use appropriate security measures. Where a third party acts as an independent controller, its processing is governed by its own privacy policy.
+
+5. Data Retention and Security
+
+We retain personal information only for the shortest period necessary for the purposes described in this Policy, unless a longer period is required by law, regulation, financial recordkeeping, or dispute resolution. When retention is no longer necessary, we delete the information or irreversibly anonymize it.
+
+We use safeguards proportionate to risk, including access controls, encryption, least-privilege access, audit logs, personnel management, and incident response, to prevent unauthorized access, disclosure, alteration, loss, or destruction.
+
+If a personal information security incident occurs, we will promptly take remedial measures and notify relevant authorities and affected users as required by applicable law.
+
+6. Your Rights
+
+Subject to applicable law, you may request access to, a copy of, correction, completion, or deletion of your personal information. You may also withdraw consent, disable device permissions, object to or restrict certain processing, and submit a complaint.
+
+If an application allows users to create accounts, we provide an in-application account deletion path and an external deletion request channel. After account deletion, we delete or irreversibly anonymize associated personal information rather than merely freezing the account, except where retention is required by law or reasonably necessary for security or fraud prevention.
+
+You may submit a request through the email address in this Policy. To protect information, we may verify your identity and will respond within the period required by applicable law.
+
+7. Children's Privacy
+
+We take the protection of minors' personal information seriously. If an application is directed to minors, or if we knowingly process a minor's personal information, we act in the child's best interests, process only information necessary to provide the Services, and obtain parental or guardian consent where required by applicable law.
+
+For children under 14, we comply with Chinese legal requirements concerning sensitive personal information and guardian consent. A guardian who believes a minor has provided personal information without appropriate authorization may contact us through the email address in this Policy.
+
+8. International Data Transfers
+
+If personal information must be transferred outside your country or region, we will provide legally required information about the overseas recipient, processing purpose, information categories, and how you may exercise your rights. We will use any required security assessment, standard contract, certification, separate consent, or other safeguard.
+
+9. Third-Party Links
+
+An application may contain links to third-party websites, applications, or services. Third parties process information under their own privacy policies, and we do not control their independent processing activities. Please review the applicable third-party privacy policy before using the service.
+
+10. Changes to This Policy
+
+We may update this Policy because of changes to application features, processing activities, or legal requirements. When updated, we will revise the Last Updated date and make the changes available through an in-application notice, the public privacy policy page, or another appropriate method.
+
+If an update materially affects your rights or the processing of personal information, we will provide prominent notice and obtain consent again where required by applicable law.
+
+11. Contact Us
+
+If you have questions, comments, complaints, or requests concerning this Policy, our processing of personal information, or your rights, contact us at:
+
+Operator: Shenzhen Vector 123 Technology Company Limited
+Contact Email: TofuKnifeDev@outlook.com
+
+We may perform necessary identity verification and will respond within the period required by applicable law.
