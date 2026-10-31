@@ -1,12 +1,16 @@
 # Workout Tracker Privacy Policy
 
-Updated and effective: October 25, 2026
+Updated and effective: October 31, 2026
 
 Workout Tracker (Android package: com.vector123.workout_tracker) is provided by Shenzhen Vector 123 Technology Co., Ltd.
 
 Data stored on your device
 
 The app stores the exercises, training plans, workout sessions, sets, rest timers, and preferences you enter in local app storage. The app has no account system and does not send this training data to our servers. We do not integrate advertising, analytics, or crash-reporting services in this release.
+
+Google Play purchases
+
+Advanced analysis and training tools can be unlocked with an optional one-time purchase through Google Play. The app uses the Google Play Billing Library to query product prices and purchase status, start purchases, restore access, and acknowledge completed purchases. Google Play processes transactions using your Google account and payment settings under its own terms and privacy policy. We do not receive your full payment-card details. The app stores an access flag locally; purchase access is not part of exported training backups. We do not send your training records to Google Play or to our servers as part of purchase processing.
 
 Backups and files
 
