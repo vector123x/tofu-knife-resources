@@ -1,8 +1,8 @@
-# Workout Tracker Privacy Policy
+# SetJot Privacy Policy
 
-Updated and effective: October 31, 2026
+Updated and effective: November 1, 2026
 
-Workout Tracker (Android package: com.vector123.workout_tracker) is provided by Shenzhen Vector 123 Technology Co., Ltd.
+SetJot (Android package: com.vector123.workout_tracker) is provided by Shenzhen Vector 123 Technology Co., Ltd.
 
 Data stored on your device
 
