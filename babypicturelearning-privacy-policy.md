@@ -4,7 +4,7 @@ Effective November 20, 2026
 
 ## Scope
 
-This policy covers Baby Look & Learn for Android (com.vector123.lexue.babypicturelearning), operated by Shenzhen Vector 123 Technology Company Limited The app is designed for children ages 3 to 8.
+This policy covers Baby Look & Learn for Android (com.vector123.lexue.babypicturelearning), operated by Shenzhen Vector 123 Technology Company Limited. The app is designed for children ages 3 to 8.
 
 ## Learning and device settings
 
