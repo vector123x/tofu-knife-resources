@@ -1,14 +1,14 @@
-# Excel Formula Guide — Privacy Policy
+# SheetRef — Privacy Policy
 
 Effective date: November 20, 2026
 
 Last updated: November 20, 2026
 
-Shenzhen Vector 123 Technology Company Limited operates Excel Formula Guide (Excel公式速查, Android package `com.vector123.excel.formula.guide`). This policy applies to the Google Play version. Contact us at tofuknifedev@outlook.com.
+Shenzhen Vector 123 Technology Company Limited operates SheetRef (表格公式速查, Android package `com.vector123.excel.formula.guide`). This policy applies to the Google Play version. Contact us at tofuknifedev@outlook.com.
 
 ## Information used by the app
 
-Excel Formula Guide is an offline reference for spreadsheet formulas, templates, and checklists. It has no account, advertising, or analytics. We do not receive app usage data on a developer-operated server.
+SheetRef is an offline reference for spreadsheet formulas, templates, and checklists. It has no account, advertising, or analytics. We do not receive app usage data on a developer-operated server.
 
 The app saves favorites, recently viewed items, and language, theme, and layout preferences in private app storage so it can restore them. Android may back up or transfer these settings and saved items when system backup or device transfer is enabled. Android manages and protects system backups under the device and account settings. We do not operate or access these backups.
 
