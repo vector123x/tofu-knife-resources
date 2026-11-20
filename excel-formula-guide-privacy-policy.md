@@ -4,7 +4,7 @@ Effective date: November 20, 2026
 
 Last updated: November 20, 2026
 
-Shenzhen Vector 123 Technology Company Limited operates Excel Formula Guide (Excel公式速查, Android package `com.vector123.hm.excel.formula.guide`). This policy applies to the Google Play version. Contact us at tofuknifedev@outlook.com.
+Shenzhen Vector 123 Technology Company Limited operates Excel Formula Guide (Excel公式速查, Android package `com.vector123.excel.formula.guide`). This policy applies to the Google Play version. Contact us at tofuknifedev@outlook.com.
 
 ## Information used by the app
 
