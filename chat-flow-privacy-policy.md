@@ -2,7 +2,7 @@
 
 Effective date: November 21, 2026
 
-This policy applies to the Google Play version of **高情商接话助手 / Smart Reply Assistant**, operated by Shenzhen Vector 123 Technology Company Limited. You can contact us at **tofuknifedev@outlook.com**.
+This policy applies to the Google Play version of **Smart Reply Assistant**, operated by Shenzhen Vector 123 Technology Company Limited. You can contact us at **tofuknifedev@outlook.com**.
 
 ## Chat text, clipboard, and preferences
 
