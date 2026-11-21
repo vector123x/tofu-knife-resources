@@ -1,6 +1,6 @@
 # Baby Look & Learn Privacy Policy
 
-Effective November 20, 2026
+Effective November 20, 2026. Last updated November 21, 2026.
 
 ## Scope
 
@@ -14,7 +14,7 @@ The app does not require an account and does not include ads, analytics, trackin
 
 ## Speech and external apps
 
-For read-aloud, the app passes its built-in learning text to an installed system speech voice that is marked as usable offline. It does not record audio or send typed or spoken input to a speech service. When a matching offline voice is unavailable, the app displays a message and other learning activities remain available.
+For read-aloud, the app passes its built-in learning text to your Android device's text-to-speech engine and prefers an installed voice marked for offline use. Depending on your engine and voice settings, the engine may use the internet to process that text under its provider's privacy policy. The app does not record audio or send typed or spoken input to the engine. When the app cannot find a matching offline voice, it displays a message and other learning activities remain available.
 
 If you choose to rate the app or open an attribution link, your device opens a separate app or website. These services handle activity under their own privacy policies.
 
